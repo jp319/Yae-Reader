@@ -22,7 +22,9 @@ Run in command line:
 pip3 install manga-ocr
 ```
 ---
-### Running in Offline
+### Running App
+Download app from releases [v0.1.0](https://github.com/jp319/Yae-Reader/releases/tag/v0.1.0)
+
 To run app in offline go to folder `classes/model`
                 
 In there open a Terminal or CMD in the `model` folder Directory and run command lines:
