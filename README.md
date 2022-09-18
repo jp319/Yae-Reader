@@ -22,19 +22,18 @@ Run in command line:
 pip3 install manga-ocr
 ```
 ---
-### Running App
-Download app from releases [v0.1.0](https://github.com/jp319/Yae-Reader/releases/tag/v0.1.0)
+### How to Run App
 
-To run app in offline go to folder `classes/model`
++ First Download app from releases [v0.1.0](https://github.com/jp319/Yae-Reader/releases/tag/v0.1.0)
+
++ To run app in offline go to folder `classes/model`
                 
-In there open a Terminal or CMD in the `model` folder Directory and run command lines:
-```commandline
-git lfs install
-git clone https://huggingface.co/kha-white/manga-ocr-base
-```
----
-
-## Usage
+    * In there open a Terminal or CMD in the `model` folder Directory and run command lines:
+      ```commandline
+          git lfs install
+          git clone https://huggingface.co/kha-white/manga-ocr-base
+       ```
 + Simply run `Yae Reader.exe` then go to system tray right click icon then select `snip screen`.
 + It will extract text from captured image and will open up a browser to translate the text using [DeepL Translator](https://www.deepl.com/translator).
     * Do understand that extracting text from images might take a few more seconds but not very long.
+---
