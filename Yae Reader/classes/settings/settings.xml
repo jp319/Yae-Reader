@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <object class="settings">
+  <void property="capturePath">
+   <string>D:/Hacks/scanlation/mangaOCR/classes/captured.png</string>
+  </void>
+  <void property="modelPath">
+   <string>D:/Hacks/scanlation/mangaOCR/classes/model/manga-ocr-base</string>
+  </void>
+ </object>
+</java>
