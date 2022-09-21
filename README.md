@@ -18,7 +18,12 @@ To install Manga OCR Run in command line:
 ```commandline
 pip3 install manga-ocr
 ```
-### Requirements
+### Running the app
+---
+Once all the other Requirements are installed you may download the rar file in [Releases](https://github.com/jp319/Yae-Reader/releases).
+`Extract it as File` in any folder you want to put it.
+Inside the folder run the `bat` file named `downloadModel.bat` as administrator, this will download the model needed for manga-ocr which is upto 400MB.
+
 
 
 
