@@ -1,27 +1,33 @@
 # Yae Reader
 
 A simple Java application that translates raw manga using manga-ocr.
-## Manga OCR
-See [manga-ocr](https://github.com/kha-white/manga-ocr) for further details.
 
-## Installation Manga OCR
-You need Python 3.6, 3.7, 3.8 or 3.9. Unfortunately, PyTorch does not support Python 3.10 yet.
+# Installation
+### Java & Python
+---
+Make sure you have Python and Java in your computer, try installing from their official sites.
+- [Java](https://www.oracle.com/java/technologies/downloads/)
+- [Python](https://www.python.org/downloads)
+- Also install PIP for Python by following this [guide](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/).
+### Manga OCR
+---
+The app uses manga-ocr for extracting japanese texts in images, see [manga-ocr](https://www.python.org/downloads) for further details
 
-Some users have reported problems with Python installed from Microsoft Store. If you see an error:
-`ImportError: DLL load failed while importing fugashi: The specified module could not be found.`,
-try installing Python from the [official site](https://www.python.org/downloads).
-
-If you want to run with GPU, install PyTorch as described [here](https://pytorch.org/get-started/locally/#start-locally),
-otherwise this step can be skipped.
-
-If you want to run with GPU, install PyTorch as described here, otherwise this step can be skipped.
-
-Run in command line:
+To install Manga OCR Run in command line:
 
 ```commandline
 pip3 install manga-ocr
 ```
----
+### Requirements
+
+
+
+
+
+
+
+
+
 ## How to Run
 
 + First Download app from releases [v0.1.0](https://github.com/jp319/Yae-Reader/releases/tag/v0.1.0)
