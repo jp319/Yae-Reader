@@ -9,7 +9,8 @@ A simple Java application that translates raw manga using manga-ocr.
 Make sure you have Python and Java on your computer. Try installing them from their official sites.
 - [Java](https://www.oracle.com/java/technologies/downloads/)
 - [Python](https://www.python.org/downloads)
-- Also, install PIP for Python by following this [guide](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/).
+- Install PIP for Python by following this [guide](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/).
+- Also install Git by following this [guide](https://github.com/git-guides/install-git).
 ### - Manga OCR
 
 The app uses manga-ocr for extracting Japanese texts in images. See [manga-ocr](https://www.python.org/downloads) for further details
